@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">DailyEquipment</string>
+    <string name="string_text"><b><center>Oops!</center></b>  \n No internet connection found.\n Check your internet connection.</string>
+    <string-array name="equipment_list">
+        <item>Select equipment</item>
+        <item>Camera with 1 GB Card</item>
+        <item>Stupum Cup</item>
+        <item>Oropharyngeal Air Way 0,1,2,3,4</item>
+        <item>Nasopharyngle Air Way (5,6,7,7.5,8)</item>
+        <item>Mouth to Mouth Mask</item>
+        <item>Spine Board</item>
+        <item>Spacer</item>
+        <item>Tourniquets</item>
+        <item>Scoop Stretche</item>
+        <item>Scissor big</item>
+        <item>Scissor Small</item>
+        <item>Collapsible Stretcher</item>
+        <item>Scaplel</item>
+        <item>Splint Long Leg, Short Leg</item>
+        <item>Spling Short Arm, Long Arm</item>
+        <item>Forces-Straight (Toothed)</item>
+        <item>Kidney Tray</item>
+        <item>Aftery Forceps 6"</item>
+        <item> Dorso Lumber Brach</item>
+        <item>Laryngoscope (Adult)</item>
+        <item>1 Laryngoscope (Child)</item>
+        <item>Pulse Oxymeter</item>
+        <item>Glucometer</item>
+        <item>Digital Thermometer</item>
+        <item>Manual BP Instrument</item>
+        <item>Digital BP Instrument</item>
+        <item>Flow Meter</item>
+        <item>Protable Oxygen Cylinder</item>
+        <item>B V M Adult</item>
+        <item>B V M Pediatric</item>
+        <item>Needle Syringe Destroyer</item>
+        <item>Nebulizer</item>
+        <item>Pupillary Tourch</item>
+        <item>Mobile Phone</item>
+        <item>Charger Mobile</item>
+        <item>Emergency Light</item>
+        <item>All Out Machine</item>
+        <item>Rain Coat</item>
+        <item>C Collar</item>
+        <item>Jackets</item>
+        <item>Water Thermous</item>
+        <item>Ventilator</item>
+        <item>Defibrilator</item>
+        <item>Bucket</item>
+        <item>Mug</item>
+        <item>Suction Machine</item>
+        <item>Fire Blanket</item>
+        <item>ECG</item>
+        <item>Inverter charging cable</item>
+        <item>AED Pads (Adult Only)</item>
+        <item>Rubber Wiper</item>
+        <item>Wheel Chair</item>
+        <item>Fire Extingusher</item>
+        <item>Folding Stretcher</item>
+
+    </string-array>
+</resources>
